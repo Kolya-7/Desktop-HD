@@ -1,0 +1,246 @@
+@media (max-width: 1500px) {
+
+    .container {
+        padding: 0px 10px;
+        margin-top: 20px;
+    }
+
+
+}
+
+
+
+@media (max-width: 700px) {
+    .none{
+        display: none !important;
+    }
+
+    .projeco-white{
+        display: block;
+    }
+
+    .projeco-black{
+        display: none;
+    }
+
+
+    nav{
+        padding: 1rem 1.5rem;
+        background-color: #000000;
+        border: none;
+    }
+
+    .logo {
+        margin-top: 22px;
+    }
+
+    .header__logo {
+        justify-content: center;
+    }
+
+    .header__title h1 {
+        font-size: 24px;
+        padding: 0px 16px;
+        margin-top: 200px;
+    }
+
+    .header__title p {
+        font-size: 12px;
+        margin-top: 0px;
+    }
+
+    .header__subtitle p {
+        margin-top: 140px;
+        font-size: 10px;
+    }
+
+
+    .header {
+        background-image: none;
+    }
+
+    .header {
+        position: relative;
+        max-height: 500px;
+        max-width: 360px;
+        background: linear-gradient(310deg, rgb(24, 13, 13) 30%, transparent 30%), linear-gradient(340deg, transparent 58%, rgb(250, 237, 237) 58%), rgb(44, 26, 26);
+        overflow: hidden;
+    }
+
+    .header__title h1{
+        margin-top: 220px;
+
+    }
+
+    .content-about {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap:wrap;
+        height: 100%;
+        padding: 0px 10px;
+    }
+
+    .anim-subtitle{
+        font-size: 14px;
+        margin-top: 15px;
+    }
+
+    .images{
+        align-items: center;
+    }
+
+    .bitmap__img{
+        width: 100px;
+    }
+
+    .header__img1{
+        display: block;
+    }
+
+    .header__img{
+        display: none;
+    }
+
+    .services{
+        padding: 0px 10px;
+        margin-top: 0px;
+    }
+
+    .service__conteiner{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap:wrap;
+    }
+
+    .service__subtitle{
+        margin-top: 20px;
+    }
+
+    .service__line{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .buttons{
+        margin-top: 20px;
+    }
+
+    .sevices-capabititles{
+        display: flex;
+        flex-wrap:wrap;
+        margin-top: 20px;
+        padding: 0px 10px;
+        gap: 10px;
+    }
+
+    .get-in-touch{
+        margin-top: 40px;
+    }
+
+    .get-in-touch-title{
+        margin-top: 20px;
+        font-size: 20px;
+        padding: 0px 10px;
+    }
+
+    .newsletter{
+        display: flex;
+        justify-content: center;
+        flex-wrap:wrap;
+        padding: 0px 10px;
+        height: 150px;
+    }
+
+    .new-title{
+        margin-right: 0px;
+    }
+
+    .btn{
+        width: 145px;
+    }
+
+    input[type=email]{
+        width: 165px;
+    }
+
+    footer {
+        padding: 0px 10px;
+    }
+
+    .contacts {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap:wrap;
+        height: 100%;
+    }
+
+    .company{
+    }
+
+    .company__title{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 15px
+    }
+
+    .company__logo-img{
+        display: none;
+    }
+
+    .company__subtitle{
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .likes__title{
+        font-size: 18px;
+        text-align: center;
+        margin-top: 15px
+    }
+
+    .likes__container{
+        display: flex;
+        justify-content: center;
+    }
+
+    .likes__subtitle{
+        text-align: center;
+    }
+
+    .contact-us{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0px 10px;
+        width: initial !important;
+    }
+
+    .contact__subtitle{
+        text-align: center;
+    }
+
+    .contact__title{
+        font-size: 18px;
+        text-align: start;
+        margin-top: 15px
+        
+    }
+
+    .contact__title br {
+        display: none;
+    }
+    
+    .socials{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .copy__title{
+        padding: 0px 10px;
+        font-size: 13px;
+    }
+}
